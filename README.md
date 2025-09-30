@@ -1,4 +1,4 @@
-# 🪄 Pinocchio — Turbin3 Q4 Accelerated Builders Escrow Programs
+# 🪄 Pinocchio — Turbin3 Q4 Accelerated Builders Programs
 
 _This repository contains my Turbin3 Q4 works for the Accelerated Builders Cohort, focused on deep-diving into more advanced Solana concepts, Pinocchio, Programs Indexing, etc._
 
