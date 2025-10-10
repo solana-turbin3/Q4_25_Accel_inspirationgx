@@ -1,3 +1,6 @@
 [submodule "anchor_whitelist_transfer_hooks"]
 	path = anchor_whitelist_transfer_hooks
 	url = git@github.com:inspi-writer001/whitelist-transfer-hook.git
+[submodule "escow_litesvm_test"]
+	path = escow_litesvm_test
+	url = git@github.com:inspi-writer001/escrow-litesvm.git
