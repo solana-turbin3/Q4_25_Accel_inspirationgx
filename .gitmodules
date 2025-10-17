@@ -4,3 +4,9 @@
 [submodule "escow_litesvm_test"]
 	path = escow_litesvm_test
 	url = git@github.com:inspi-writer001/escrow-litesvm.git
+[submodule "magicblock-er-vrf"]
+	path = magicblock-er-vrf
+	url = git@github.com:inspi-writer001/magicblock-er-example.git
+[submodule "transfer-hooks-challenge"]
+	path = transfer-hooks-challenge
+	url = git@github.com:inspi-writer001/week-1-test.git
