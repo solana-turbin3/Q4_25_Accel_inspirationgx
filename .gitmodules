@@ -13,3 +13,6 @@
 [submodule "solana-pinocchio-starter"]
 	path = solana-pinocchio-starter
 	url = git@github.com:inspi-writer001/solana-pinocchio-starter.git
+[submodule "pinocchio-escrow"]
+	path = pinocchio-escrow
+	url = https://github.com/inspi-writer001/pinocchio-escrow.git
