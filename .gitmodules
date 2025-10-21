@@ -10,3 +10,6 @@
 [submodule "transfer-hooks-challenge"]
 	path = transfer-hooks-challenge
 	url = git@github.com:inspi-writer001/week-1-test.git
+[submodule "solana-pinocchio-starter"]
+	path = solana-pinocchio-starter
+	url = git@github.com:inspi-writer001/solana-pinocchio-starter.git
