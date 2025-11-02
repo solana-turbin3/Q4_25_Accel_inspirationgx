@@ -16,3 +16,6 @@
 [submodule "pinocchio-escrow"]
 	path = pinocchio-escrow
 	url = https://github.com/inspi-writer001/pinocchio-escrow.git
+[submodule "pinocchio-fundraiser"]
+	path = pinocchio-fundraiser
+	url = https://github.com/inspi-writer001/pinocchio-fundraiser.git
