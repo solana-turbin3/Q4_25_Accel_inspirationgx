@@ -37,7 +37,7 @@ pub fn process_instruction(
             let our_data[0..IxHandler::LEN] = data;
 
             let initial_bump = [0u8];
-            let bump = [initial_bump];
+            let bump = initial_bump;
             let seed = [
                 Seed::from(b"fundraiser"),
                 Seed::from(first_account.key()),

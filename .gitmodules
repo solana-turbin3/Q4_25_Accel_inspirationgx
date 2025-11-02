@@ -19,3 +19,6 @@
 [submodule "pinocchio-fundraiser"]
 	path = pinocchio-fundraiser
 	url = https://github.com/inspi-writer001/pinocchio-fundraiser.git
+[submodule "mojo"]
+	path = mojo
+	url = https://github.com/Turbin3/accel-Mojo.git
